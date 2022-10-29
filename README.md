@@ -20,38 +20,40 @@ Coming Soon.
 8. Compact Machines
 9. ComputerCraft
 10. Cooking Book
-11. EnderIO
-12. EnderStorage
-13. ExtraBiomesXL
-14. FastCraft
-15. Forge Multipart
-16. In-Game-Wiki (IGW)
-17. Industrial Craft 2
-18. Iron Chest
-19. Journey Map
-20. Mine Factory Reloaded
-21. MouseTweaks
-22. NotEnoughItems
-23. Open Blocks
-24. Optifine
-25. Pam's HarvestCraft
-26. Power Converters
-27. ProjectRed: Base
-28. ProjectRed: Fabrication
-29. ProjectRed: Integration
-30. ProjectRed: Lighting
-31. ProjectRed: World
-32. Rogue Like Dungeons
-33. Thermal Dynamics
-34. Thermal Expansion
-35. Thermal Foundation
-36. Waila
-37. Waystones
+11. DrZarks Mo' Creatures
+12. EnderIO
+13. EnderStorage
+14. ExtraBiomesXL
+15. FastCraft
+16. Forge Multipart
+17. In-Game-Wiki (IGW)
+18. Industrial Craft 2
+19. Iron Chest
+20. Journey Map
+21. Mine Factory Reloaded
+22. MouseTweaks
+23. NotEnoughItems
+24. Open Blocks
+25. Optifine
+26. Pam's HarvestCraft
+27. Power Converters
+28. ProjectRed: Base
+29. ProjectRed: Fabrication
+30. ProjectRed: Integration
+31. ProjectRed: Lighting
+32. ProjectRed: World
+33. Rogue Like Dungeons
+34. Thermal Dynamics
+35. Thermal Expansion
+36. Thermal Foundation
+37. Waila
+38. Waystones
 
 ### Core Mods
 
 1. Bookshelf
 2. CodeChickenCore
 3. CoFHCore
-4. EnderCore
-5. OpenModsLib
+4. CustomMobSpawner
+5. EnderCore
+6. OpenModsLib
