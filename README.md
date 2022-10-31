@@ -17,37 +17,42 @@ Coming Soon.
 5. Biomes O' Plenty
 6. Build Craft
 7. Carpenter Blocks
-8. Compact Machines
-9. ComputerCraft
-10. Cooking Book
-11. DrZarks Mo' Creatures
-12. EnderIO
-13. EnderStorage
-14. ExtraBiomesXL
-15. FastCraft
-16. Forge Multipart
-17. In-Game-Wiki (IGW)
-18. Industrial Craft 2
-19. Iron Chest
-20. Journey Map
-21. Mine Factory Reloaded
-22. MouseTweaks
-23. NotEnoughItems
-24. Open Blocks
-25. Optifine
-26. Pam's HarvestCraft
-27. Power Converters
-28. ProjectRed: Base
-29. ProjectRed: Fabrication
-30. ProjectRed: Integration
-31. ProjectRed: Lighting
-32. ProjectRed: World
-33. Rogue Like Dungeons
-34. Thermal Dynamics
-35. Thermal Expansion
-36. Thermal Foundation
-37. Waila
-38. Waystones
+8. Chest Transporter
+9. Compact Machines
+10. ComputerCraft
+11. Cooking Book
+12. DrZarks Mo' Creatures
+13. Dyeable Beds
+14. EnderIO
+15. EnderStorage
+16. ExtraBiomesXL
+17. FastCraft
+18. Forge Multipart
+19. In-Game-Wiki (IGW)
+20. Industrial Craft 2
+21. Inventory Tweaks
+22. Iron Chest
+23. Journey Map
+24. Mine Factory Reloaded
+25. MouseTweaks
+26. NotEnoughItems
+27. Open Blocks
+28. Optifine
+29. Pam's HarvestCraft
+30. Power Converters
+31. ProjectRed: Base
+32. ProjectRed: Fabrication
+33. ProjectRed: Integration
+34. ProjectRed: Lighting
+35. ProjectRed: World
+36. Rebind
+37. Rogue Like Dungeons
+38. Storage Drawers
+39. Thermal Dynamics
+40. Thermal Expansion
+41. Thermal Foundation
+42. Waila
+43. Waystones
 
 ### Core Mods
 
