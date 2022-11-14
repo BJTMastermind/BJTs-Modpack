@@ -1,4 +1,4 @@
-<h1 align="center">BJT's Modpack (Name TBD)</h1>
+<h1 align="center">Tech Adventure</h1>
 
   My 1.7.10 Modpack (W.I.P)                                                                                         
 
