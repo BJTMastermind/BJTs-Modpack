@@ -19,7 +19,7 @@
 11. [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft/files/2269339)
 12. [Cooking For Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2299135)
 13. [DrZarks Mo' Creatures](https://www.curseforge.com/minecraft/mc-mods/mo-creatures/files/2232973) (Replace '+' with '-' in file name otherwise creatures are invisible)
-14. Dyeable Beds
+14. [Dyeable Beds](https://minecraft-forum.net/minecraft-mods-downloads/1-6-2-dyeable-beds-mod-download-2-2/)
 15. [EnderIO](https://www.curseforge.com/minecraft/mc-mods/ender-io/files/2322348)
 16. [EnderStorage](https://www.curseforge.com/minecraft/mc-mods/ender-storage/files/2262092)
 17. [ExtraBiomesXL](https://www.curseforge.com/minecraft/mc-mods/extrabiomesxl/files/2273301)
