@@ -10,12 +10,12 @@ Coming Soon.
 
 ### Mods
 
-1. [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2987247) (Replaces AppleCore)
+1. [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2987247)
 2. [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063)
-3. [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393) (Replaces FastCraft)
+3. [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)
 4. [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3558882)
 5. [Build Craft](https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475)
-6. [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/2992872) (Replaces ComputerCraft)
+6. [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/2992872)
 7. [Chest Transporter](https://www.curseforge.com/minecraft/mc-mods/chest-transporter/files/2524058)
 8. [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375)
 9. [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198)
@@ -24,15 +24,15 @@ Coming Soon.
 12. [Cooking For Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2862651)
 13. [EnderIO](https://www.curseforge.com/minecraft/mc-mods/ender-io/files/3328811)
 14. [EnderStorage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787)
-15. [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters/files/2992813) (Replaces Power Converters 3)
-16. [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/files/3194746) (Replaces Big Reactors)
+15. [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters/files/2992813)
+16. [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/files/3194746)
 17. [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/2463272)
 18. [Foam Fix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod/files/3973967)
-19. [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751) (Replaces Waila)
+19. [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751)
 20. [Industrial Craft 2](https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/3838713)
 21. [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2923460)
 22. [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935)
-23. [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/3043174) (Replaces NotEnoughItems)
+23. [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/3043174)
 24. [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2916002)
 25. [Mod Tweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker/files/3840577)
 26. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/2671937)
@@ -75,17 +75,3 @@ Coming Soon.
 14. [OpenModsLib](https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)
 15. [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2920436)
 16. [ZeroCore](https://www.curseforge.com/minecraft/mc-mods/zerocore/files/3194743)
-
-### Mods From 1.7.10 That Have Been Removed
-
-1. AppleCore (Replaced by AppleSkin)
-2. Better Boat (No longer needed as 1.9 made boats better.)
-3. DrZharks Mo' Creatures Mod
-3. Dyeable Beds (No longer needed as 1.12 added this.)
-4. ExtraBiomesXL (Not updated for 1.12.2)
-5. FastCraft (Not updated for 1.12.2)
-6. In-Game-Wiki (IGW) (No longer used by Compact Machines in 1.12.2)
-7. Mine Factory Reloaded (Not updated for 1.12.2)
-8. Power Converters (Not updated for 1.12.2)
-9. Rebind (No longer needed)
-10. World Edit (No longer needed as 1.8 added `/fill` command)
